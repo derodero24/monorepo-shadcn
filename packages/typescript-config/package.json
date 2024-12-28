@@ -5,5 +5,9 @@
   "license": "PROPRIETARY",
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "@tsconfig/next": "^2.0.3",
+    "@tsconfig/strictest": "^2.0.5"
   }
 }
